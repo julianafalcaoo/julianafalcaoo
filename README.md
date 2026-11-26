@@ -86,6 +86,12 @@ Sistema web full stack para simulação do Jogo do Bicho, desenvolvido para fins
 
 ---
 
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/julianafalcaoo/julianafalcaoo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ## 📫 Vamos nos conectar?
 
 <p align="center">
